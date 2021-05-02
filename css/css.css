@@ -1,0 +1,30 @@
+
+.salom a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 15px;
+}
+.linclar a {
+text-decoration: none;
+}
+.ijtimoiy-tarmoq_lk a {
+  text-decoration: none;
+}
+.rasm{
+  background-color: #2D2641;
+  color: #ffffff;
+}
+.find{
+  background-color:#2d2641 ;
+  color: #ffffff;
+  font-size: 50px;
+}
+.button {
+  background-color:#2d2641 ;
+  color: #ffffff;
+  font-size: 15px;
+}
+.insur{
+  font-size: 25px;
+}
